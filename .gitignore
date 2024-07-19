@@ -17,3 +17,12 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+
+# Fly files
+.dockerignore
+Dockerfile
+fly.toml
+/.fly
+
+# GitHub files
+/.github
